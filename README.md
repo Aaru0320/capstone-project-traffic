@@ -29,7 +29,7 @@ The project is inspired by the real-world problem highlighted in this [Times of 
 
 ## 📂 Project Structure
 
-smart_traffic_forecasting/
+```smart_traffic_forecasting/
 ├── app.py                    # Streamlit dashboard
 ├── data/
 │   ├── traffic.csv           # Raw traffic data
@@ -51,7 +51,7 @@ smart_traffic_forecasting/
 
 yaml
 Copy
-Edit
+Edit```
 
 ---
 
