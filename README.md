@@ -29,7 +29,25 @@ The project is inspired by the real-world problem highlighted in this [Times of 
 
 ## 📂 Project Structure
 
-```smart_traffic_forecasting/ ├── app.py # Streamlit dashboard ├── data/ │ ├── traffic.csv │ └── traffic_cleaned.csv ├── models/ # Trained model & scalers ├── notebooks/ # Step-by-step development notebooks │ ├── 1_data_cleaning.ipynb │ ├── 2_feature_engineering.ipynb │ ├── 3_model_training.ipynb │ └── 4_model_evaluation.ipynb ├── src/ │ ├── clean_traffic_data.py │ ├── create_sequences.py │ ├── train_model.py │ └── evaluate_model.py ├── requirements.txt └── README.md```
+smart_traffic_forecasting/
+├── app.py                    # Streamlit dashboard
+├── data/
+│   ├── traffic.csv           # Raw traffic data
+│   └── traffic_cleaned.csv   # Cleaned dataset
+├── models/                   # Trained model & scalers
+├── notebooks/                # Step-by-step development notebooks
+│   ├── 1_data_cleaning.ipynb
+│   ├── 2_feature_engineering.ipynb
+│   ├── 3_model_training.ipynb
+│   └── 4_model_evaluation.ipynb
+├── src/                      # Source code scripts
+│   ├── clean_traffic_data.py
+│   ├── create_sequences.py
+│   ├── train_model.py
+│   └── evaluate_model.py
+├── requirements.txt          # Python dependencies
+└── README.md                 # Project documentation
+
 
 yaml
 Copy
