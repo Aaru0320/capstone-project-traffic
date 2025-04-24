@@ -87,7 +87,8 @@ Copy
 Edit
 streamlit run app.py
 ```
-📈 Features
+##📈 Features
+
 Upload any custom traffic CSV file
 
 Select target variable to forecast (Speed, Occupancy, Energy)
@@ -102,7 +103,9 @@ Display of MAE, RMSE, R² Score
 
 Downloadable CSV of predictions
 
-🧪 Tech Stack
+
+##🧪 Tech Stack
+
 Python 3.8+
 
 Streamlit
