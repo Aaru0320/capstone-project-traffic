@@ -87,6 +87,8 @@ Copy
 Edit
 streamlit run app.py
 ```
+---
+
 ##📈 Features
 
 Upload any custom traffic CSV file
@@ -103,6 +105,7 @@ Display of MAE, RMSE, R² Score
 
 Downloadable CSV of predictions
 
+----
 
 ##🧪 Tech Stack
 
