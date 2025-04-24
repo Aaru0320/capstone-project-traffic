@@ -14,7 +14,7 @@ This project leverages **Long Short-Term Memory (LSTM)** networks to forecast ke
 
 Users can upload any structured traffic dataset, choose a target metric, and visualize actual vs predicted results in a fully functional **Streamlit dashboard**.
 
-The project is inspired by the real-world problem highlighted in this [Times of India article](https://timesofindia.indiatimes.com/india/traffic-congestion-costs-four-major-indian-cities-rs-1-5-lakh-crore-a-year/articleshow/63918040.cms?utm_source=chatgpt.com), which states that **traffic congestion costs Indian cities like Delhi, Mumbai, Bengaluru, and Kolkata over Rs 1.5 lakh crore every year**. Efficient forecasting can help reduce fuel loss, air pollution, and commute delays.
+The project is inspired by the real-world problem highlighted in this [Times of India article](https://timesofindia.indiatimes.com/india/traffic-congestion-costs-four-major-indian-cities-rs-1-5-lakh-crore-a-year/articleshow/63918040.cms?utm_source=chatgpt.com)(2018), which states that **traffic congestion costs Indian cities like Delhi, Mumbai, Bengaluru, and Kolkata over Rs 1.5 lakh crore every year**. Efficient forecasting can help reduce fuel loss, air pollution, and commute delays.
 
 ---
 
